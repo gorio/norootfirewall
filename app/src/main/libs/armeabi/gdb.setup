@@ -1,0 +1,2 @@
+set solib-search-path /home/gorio/norootfirewall-as/app/src/main/obj/local/armeabi
+directory /home/gorio/Android/Sdk/ndk-bundle/platforms/android-14/arch-arm/usr/include /home/gorio/norootfirewall-as/app/src/main/jni/include /home/gorio/norootfirewall-as/app/src/main/jni/lwip-1.4.1/src/include /home/gorio/norootfirewall-as/app/src/main/jni/lwip-1.4.1/src/include/ipv4 /home/gorio/Android/Sdk/ndk-bundle/sources/cxx-stl/system
